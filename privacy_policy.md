@@ -1,13 +1,13 @@
 # Privacy Policy
 
-**Effective Date:** October 18, 2026
+**Effective Date:** November 8, 2026
 **App:** Purlwise
 **Developer:** antogs99
 **Contact:** antogs99@gmail.com
 
 ## 1. Summary
 
-Purlwise is a row counter and pattern tracker for knitting and crochet. There is no account, no sign-in and no server that stores your projects or patterns. Your projects, counters, patterns and settings stay on your device. The only data we collect is anonymous usage analytics, described in section 5.
+Purlwise is a row counter and pattern tracker for knitting and crochet. There is no account, no sign-in and no server that stores your projects or patterns. Your projects, counters, patterns and settings stay on your device. The only data we collect is anonymous usage analytics, described in section 5. The free version also shows a non-personalized banner ad, described in section 6.
 
 ## 2. Information You Create
 
@@ -31,31 +31,41 @@ We use Google Analytics for Firebase to understand how the app is used and to im
 - It is used for analytics only and is not used for advertising or tracking across other companies' apps and websites.
 - Google processes this data under its own privacy terms: https://policies.google.com/privacy
 
-## 6. Data Sharing
+## 6. Advertising
 
-We do not sell your data. The only third parties involved are Apple (purchases, App Store, Live Activities and widgets) and Google (analytics, as described above).
+The free version of Purlwise shows a small banner ad at the bottom of the screen, served by Google AdMob. Purlwise Pro removes it.
 
-## 7. Children's Privacy
+- Ads are **non-personalized**: Purlwise asks Google not to personalize ads, does not request permission to track you (App Tracking Transparency), and does not access your device's advertising identifier for tracking.
+- To serve and measure ads, and to prevent fraud, Google AdMob may collect information such as your IP address, device type, operating system version, app version, approximate location derived from your IP address, and ad interactions (for example, whether an ad was shown or tapped).
+- AdMob never receives your projects, counters, notes, patterns or photos.
+- If you are in a region that requires consent (such as the EEA, UK or Switzerland), Purlwise shows Google's consent message, and you can change your choice at any time under **Settings → Ad privacy choices**.
+- Google processes this data under its own privacy terms: https://policies.google.com/technologies/partner-sites
+
+## 7. Data Sharing
+
+We do not sell your data. The only third parties involved are Apple (purchases, App Store, Live Activities and widgets) and Google (analytics and, in the free version, advertising, as described above).
+
+## 8. Children's Privacy
 
 Purlwise is not directed at children under 13, and we do not knowingly collect personal information from children.
 
-## 8. Data Retention and Deletion
+## 9. Data Retention and Deletion
 
 Projects, patterns and settings are stored on your device and are deleted when you delete the app. Backup files you exported are kept wherever you saved them until you delete them. Analytics data is retained by Google Analytics according to the retention settings we choose, which are limited in time. Because analytics data is not linked to your identity, we cannot look up or delete data for a specific person. Deleting the app stops further collection from that installation.
 
-## 9. Your Rights
+## 10. Your Rights
 
 Depending on where you live, you may have rights over your personal information. Because Purlwise does not collect personal information that identifies you, there is generally nothing for us to access or delete, but you can contact us at any time with questions or requests.
 
-## 10. Security
+## 11. Security
 
 Your projects are stored in the app's private storage on your device and are protected by iOS. Backup files you export are not encrypted by Purlwise, so keep them somewhere you trust. No method of storage or transmission is completely secure.
 
-## 11. Changes to This Policy
+## 12. Changes to This Policy
 
 We may update this policy. The effective date above shows when it was last changed. Continued use of the app after a change means you accept the updated policy.
 
-## 12. Contact
+## 13. Contact
 
 **antogs99**
 **Email:** antogs99@gmail.com

@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-**Effective Date:** October 18, 2026
+**Effective Date:** November 8, 2026
 **App:** Purlwise
 **Developer:** antogs99
 **Contact:** antogs99@gmail.com
@@ -21,11 +21,11 @@ Some features need your permission or a device setting: choosing a photo (photo 
 
 ## 4. In-App Purchases
 
-Purlwise is free to download and use, including one active project, counters, pattern import, the Lock Screen counter and backups. Purlwise Pro is a one-time, non-consumable purchase that unlocks unlimited projects, pattern-repeat counters, the project timer and stats, and the Home Screen widget. Purchases are processed by Apple and are subject to Apple's terms. Family Sharing is enabled for Purlwise Pro. You can restore a previous purchase from Settings.
+Purlwise is free to download and use, including one active project with up to three counters, pattern import, the Lock Screen counter and backups. Purlwise Pro is a one-time, non-consumable purchase that unlocks unlimited projects and counters, pattern-repeat counters, the project timer and stats, and the Home Screen widget, and removes ads. Purchases are processed by Apple and are subject to Apple's terms. Family Sharing is enabled for Purlwise Pro. You can restore a previous purchase from Settings.
 
-## 5. No Subscription and No Ads
+## 5. No Subscription; Ads in the Free Version
 
-Purlwise has no subscription and shows no ads. We will not charge you recurring fees.
+Purlwise has no subscription. We will not charge you recurring fees. The free version shows a non-personalized banner ad served by Google AdMob; purchasing Purlwise Pro removes it.
 
 ## 6. Refunds
 
